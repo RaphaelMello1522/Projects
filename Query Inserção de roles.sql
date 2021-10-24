@@ -1,2 +1,0 @@
-﻿INSERT INTO AspNetUserRoles 
-VALUES ('1','2824dd68-7c8e-4bf1-a259-003b555bc71f')
