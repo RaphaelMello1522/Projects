@@ -1,0 +1,16 @@
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\bin\Debug\Cadastro_Hospital_1.exe.config
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\bin\Debug\Cadastro_Hospital_1.exe
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\bin\Debug\Cadastro_Hospital_1.pdb
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.Form1.resources
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.Properties.Resources.resources
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.csproj.GenerateResource.cache
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.exe
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.pdb
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.Forms_Pacientes.ListarPacientes.resources
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.Forms_Pacientes.InserirPacientes.resources
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.Forms_Pacientes.ExcluirPaciente.resources
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.Forms_Pacientes.PesquisaPaciente.resources
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.Forms_Pacientes.AlterarPaciente.resources
+C:\Users\rapha\source\repos\Cadastro_Hospital_1\Cadastro_Hospital_1\obj\Debug\Cadastro_Hospital_1.Forms_Medicos.InserirMedicos.resources
